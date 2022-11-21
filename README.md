@@ -1,0 +1,1 @@
+# -Slidin-videos-Slide-Transition-Detection-and-Title-Extraction-in-Lecture-Video
