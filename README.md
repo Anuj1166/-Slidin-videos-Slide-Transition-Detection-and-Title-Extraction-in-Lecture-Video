@@ -52,4 +52,7 @@ YouTube’s “Video Chapter” feature segments a video into sections marked by
   • Multi-loss training strategy converges the network much faster
   
   • Gives a significant boost in the performance by ~5% 
+  
+  # Future work
+  In the future work, we would like to further optimize the learning curve with a minimal number of learning parameters.
 
