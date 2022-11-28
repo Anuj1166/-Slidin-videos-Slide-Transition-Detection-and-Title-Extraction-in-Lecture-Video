@@ -1,4 +1,6 @@
-# -Slidin-videos-Slide-Transition-Detection-and-Title-Extraction-in-Lecture-Video Challenge
+# -Slidin-videos-Slide-Transition-Detection-and-Title-Extraction-in-Lecture-Video Challenge 2022
+
+https://challenge.aiforgood.itu.int/match/matchitem/74
 
 Title: Multi-loss Function to Improve the Text Detection and Segmentation
 
