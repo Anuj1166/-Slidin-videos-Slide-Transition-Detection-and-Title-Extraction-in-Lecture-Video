@@ -1,6 +1,6 @@
 # -Slidin-videos-Slide-Transition-Detection-and-Title-Extraction-in-Lecture-Video Challenge
 
-Title: Multi-loss Function to Improve the Text Detection and Segmentation
+# Title: Multi-loss Function to Improve the Text Detection and Segmentation
 Team name: AA_Vision
 Team members:
 1.	Dr. Anuj Abraham, Senior Researcher TII, Abu Dhabi, UAE.
